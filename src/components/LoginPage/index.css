@@ -1,0 +1,19 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: 500px;
+  color: white;
+  background-color: black;
+  justify-content: space-around;
+  align-items: center;
+  position: absolute;
+  top: 300px;
+  left: 40%;
+}
+.btnlogin {
+  width: 200px;
+  color: white;
+  background-color: purple;
+  height: 50px;
+}
